@@ -1,7 +1,7 @@
 # Olá 👋, eu sou Luiz Felipe
 
 💻 Desenvolvedor Front-End com foco em construção de aplicações web  
-🚀 Experiência prática com projetos que simulam cenários reais de negócio  
+🚀 Desenvolvimento de aplicações com foco em usabilidade, performance e manutenção
 
 ---
 
