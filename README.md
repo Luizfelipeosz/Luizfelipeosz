@@ -46,4 +46,4 @@ Simulação de sistema bancário digital com gerenciamento de saldo, entradas e 
 
 ### 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luiz-felipe-o-souza-9a488b372/)
