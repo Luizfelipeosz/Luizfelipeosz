@@ -48,3 +48,4 @@ Simulação de sistema bancário digital com gerenciamento de saldo, entradas e 
 ### 🌐 Contato
 
 ![LinkedIn](linkedin.com/in/luiz-felipe-o-souza-9a488b372/)
+![Email](luizfelipeolsouz@gmail.com)
