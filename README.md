@@ -15,7 +15,15 @@
 
 ---
 
-### 🚀 Tecnologias
+### ⚙️ Como eu trabalho
+
+- 📁 Estruturação de projetos pensando em crescimento e manutenção
+- 🔍 Leitura e análise de código para identificar melhorias
+- 🧪 Testes manuais e validação de fluxos antes de considerar uma feature pronta
+- 🧹 Refatoração constante para evitar acúmulo de complexidade
+- 🔗 Integração com APIs e tratamento de estados assíncronos
+
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
