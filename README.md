@@ -7,10 +7,11 @@
 
 ### 🧠 Sobre mim
 
-- 🛠️ Desenvolvimento de interfaces modernas com React e TypeScript
-- 📦 Organização de código com foco em escalabilidade e manutenção
-- 🔍 Atenção a detalhes de UI/UX e experiência do usuário
-- ⚡ Familiaridade com fluxo de desenvolvimento, versionamento e deploy
+- 💻 Desenvolvedor Front-End focado em transformar requisitos em interfaces funcionais e bem estruturadas  
+- 🧩 Experiência na construção de aplicações com React e TypeScript, priorizando legibilidade e organização  
+- 📐 Preocupação com arquitetura de componentes e escalabilidade desde o início do projeto  
+- 🎯 Foco em resolver problemas reais, não apenas “fazer funcionar”  
+- 🔄 Evolução contínua com base em análise de código, refatoração e boas práticas  
 
 ---
 
