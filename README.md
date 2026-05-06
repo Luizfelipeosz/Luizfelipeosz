@@ -1,60 +1,122 @@
-# Olá 👋, eu sou Luiz Felipe
+# 🚀 Luiz Felipe Oliveira Souza
 
-💻 Desenvolvedor Front-End com foco em construção de aplicações web  
-🚀 Desenvolvimento de aplicações com foco em usabilidade, performance e manutenção
+<p align="center">
+  <b>Desenvolvedor Front-End | React.js | TypeScript</b><br/>
+  Foco em construção de aplicações escaláveis, organizadas e orientadas a solução de problemas
+</p>
 
----
-
-### 🧠 Sobre mim
-
-- 💻 Desenvolvedor Front-End focado em transformar requisitos em interfaces funcionais e bem estruturadas  
-- 🧩 Experiência na construção de aplicações com React e TypeScript, priorizando legibilidade e organização  
-- 📐 Preocupação com arquitetura de componentes e escalabilidade desde o início do projeto  
-- 🎯 Foco em resolver problemas reais, não apenas “fazer funcionar”  
-- 🔄 Evolução contínua com base em análise de código, refatoração e boas práticas  
-
----
-
-### ⚙️ Como eu trabalho
-
-- 📁 Estruturação de projetos pensando em crescimento e manutenção
-- 🔍 Leitura e análise de código para identificar melhorias
-- 🧪 Testes manuais e validação de fluxos antes de considerar uma feature pronta
-- 🧹 Refatoração constante para evitar acúmulo de complexidade
-- 🔗 Integração com APIs e tratamento de estados assíncronos
+<p align="center">
+  <a href="https://linkedin.com/in/luiz-felipe-o-souza-9a488b372/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:luizfelipeolsouz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="TS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-</div>
+## 🧠 Sobre mim
+
+Desenvolvedor Front-End com foco em transformar regras de negócio em interfaces claras, funcionais e bem estruturadas.
+
+Tenho como prioridade escrever código que seja **legível, escalável e fácil de manter**, sempre pensando no longo prazo da aplicação.
+
+* 💻 Experiência com React e TypeScript em aplicações SPA
+* 🧩 Estruturação de componentes com foco em reutilização
+* 📐 Organização de código voltada à escalabilidade
+* 🎯 Resolução de problemas com abordagem prática
+* 🔍 Atenção a detalhes de interface e experiência do usuário
+* 🔄 Evolução contínua através de refatoração e análise de código
 
 ---
 
-### 📌 Projetos em destaque
+## ⚙️ Forma de trabalho
 
-- 🔗 **Devyssey**  
-Aplicação focada em organização e produtividade para desenvolvedores, com registro de progresso e evolução contínua.
-
-- 🔗 **PIG Bank**  
-Simulação de sistema bancário digital com gerenciamento de saldo, entradas e saídas, aplicando regras de negócio.
-
----
-
-### 📊 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+* 📁 Organização de projetos pensando em crescimento e manutenção
+* 🔍 Leitura crítica de código para identificar melhorias
+* 🧪 Validação de fluxos e comportamento da aplicação
+* 🧹 Refatoração constante para controle de complexidade
+* 🔗 Consumo de APIs e gerenciamento de estados assíncronos
+* 📌 Separação clara de responsabilidades (componentes, lógica e dados)
 
 ---
 
-### 🌐 Contato
+## 🛠️ Stack principal
 
-![LinkedIn](linkedin.com/in/luiz-felipe-o-souza-9a488b372/)
-![Email](luizfelipeolsouz@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,dart,git" />
+</p>
+
+---
+
+---
+## 🛠️ Stacks 
+<div style="display: inline_block"><br><img align="center" alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><img align="center" alt="TS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"><img align="center" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img align="center" alt="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></div>
+
+## 📌 Projetos em destaque
+
+### 🔹 Devyssey
+
+Aplicação voltada para organização de desenvolvedores.
+
+**Destaques técnicos:**
+
+* Estrutura modular e escalável
+* Gerenciamento de estado para controle de progresso
+* Separação entre lógica e apresentação
+* Foco em usabilidade e fluxo do usuário
+
+---
+
+### 🔹 PIG Bank
+
+Simulação de sistema bancário digital.
+
+**Destaques técnicos:**
+
+* Implementação de regras de negócio (saldo, transações)
+* Atualização dinâmica da interface
+* Organização de lógica financeira no front-end
+* Controle de estado e renderização eficiente
+
+---
+
+## 📈 Princípios que sigo no código
+
+* Código precisa ser **entendido rapidamente por outro dev**
+* Evitar complexidade desnecessária
+* Estrutura > quantidade de features
+* Clareza sempre acima de “código inteligente demais”
+* Refatorar faz parte do desenvolvimento, não é etapa final
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Indicadores
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🔗 Conecte-se comigo
+
+* 💼 LinkedIn: https://linkedin.com/in/luiz-felipe-o-souza-9a488b372/
+* 📧 Email: [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
+
+---
+
+<p align="center">
+  <i>Construindo soluções, não apenas interfaces.</i>
+</p>
+
