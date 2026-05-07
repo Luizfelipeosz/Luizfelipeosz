@@ -24,7 +24,8 @@ Tenho como prioridade escrever código que seja **legível, escalável e fácil 
 
 * 💻 Experiência com React e TypeScript em aplicações SPA
 * 🧩 Estruturação de componentes com foco em reutilização
-* 📐 Organização de código voltada à manutenção e crescimento da aplicação* 🎯 Resolução de problemas com abordagem prática
+* 📐 Organização de código voltada à manutenção e crescimento da aplicação
+* 🎯 Resolução de problemas com abordagem prática
 * 🔍 Atenção a detalhes de interface e experiência do usuário
 * 🔄 Evolução contínua através de refatoração e análise de código
 
