@@ -34,12 +34,11 @@
 
 # 🧠 Sobre mim
 
-Desenvolvedor Front-End focado em criar aplicações modernas, organizadas e escaláveis utilizando React e TypeScript.
+Front-End Developer focused on React and TypeScript, with emphasis on scalable architecture, code organization and reusable components.
 
-Tenho grande interesse por arquitetura front-end, organização de código e construção de interfaces que sejam fáceis de manter no longo prazo.
+I enjoy building applications that are easy to maintain, evolve and refactor over time.
 
-Busco evoluir constantemente através da prática, refatoração e análise crítica de código.
-
+Currently focused on improving front-end architecture, performance and software engineering practices.
 ---
 
 # 🚀 Tech Stack
@@ -55,7 +54,7 @@ Busco evoluir constantemente através da prática, refatoração e análise crí
 ### Front-End
 - React.js
 - TypeScript
-- JavaScript
+- Firebase
 - Vite
 - React Router
 
@@ -90,11 +89,21 @@ Busco evoluir constantemente através da prática, refatoração e análise crí
 
 ---
 
+# 🧠 Development Mindset
+
+- Build for scalability, not only functionality
+- Prefer clarity over unnecessary complexity
+- Refactoring is part of the development process
+- Focus on maintainable and reusable solutions
+- Constantly reviewing code structure and architecture
+
+---
+
 # 📌 Projetos em Destaque
 
 ## 🚀 Devyssey
 
-Aplicação SPA voltada para produtividade e organização de estudos para desenvolvedores.
+Productivity platform designed to help developers organize studies, track progress and manage daily learning goals.
 
 ### ✨ Features
 - Sistema de autenticação
@@ -148,7 +157,7 @@ Leitura crítica para melhorias contínuas
 Refatoração como parte do processo
 Clareza acima de complexidade
 Componentes desacoplados e reutilizáveis
-
+```
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luizfelipeosz&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipeosz&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
