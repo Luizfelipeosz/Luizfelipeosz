@@ -1,141 +1,143 @@
-# 🚀 Luiz Felipe Oliveira Souza
+<h1 align="center">🚀 Luiz Felipe Oliveira Souza</h1>
 
 <p align="center">
-  <b>Desenvolvedor Front-End | React.js | TypeScript</b><br/>
-  Foco em construção de aplicações organizadas, reutilizáveis e fáceis de manter 
+  <b>Front-End Developer • React • TypeScript</b>
 </p>
+
+<p align="center">
+  Construindo aplicações organizadas, escaláveis e fáceis de manter.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=24&center=true&vCenter=true&width=900&lines=Front-End+Developer;React+%7C+TypeScript+%7C+Vite;Clean+Code+%7C+Scalable+Architecture;Always+learning+and+building" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/luiz-felipe-o-souza-9a488b372/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:luizfelipeolsouz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Luizfelipeosz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+# 🧠 Sobre mim
 
-Desenvolvedor Front-End com foco em transformar regras de negócio em interfaces claras, funcionais e bem estruturadas.
+Desenvolvedor Front-End focado em criar aplicações modernas, organizadas e escaláveis utilizando React e TypeScript.
 
-Tenho como prioridade escrever código que seja **legível, escalável e fácil de manter**, sempre pensando no longo prazo da aplicação.
+Tenho grande interesse por arquitetura front-end, organização de código e construção de interfaces que sejam fáceis de manter no longo prazo.
 
-* 💻 Experiência com React e TypeScript em aplicações SPA
-* 🧩 Estruturação de componentes com foco em reutilização
-* 📐 Organização de código voltada à manutenção e crescimento da aplicação
-* 🎯 Resolução de problemas com abordagem prática
-* 🔍 Atenção a detalhes de interface e experiência do usuário
-* 🔄 Evolução contínua através de refatoração e análise de código
-
----
-## 💻 Tecnologias
-
-* React Router
-* Context API
-* Vite
-* Styled Components / CSS Modules
-* LocalStorage
-* JSON Server
-
----
-## ⚙️ Forma de trabalho
-
-* 📁 Organização de projetos pensando em crescimento e manutenção
-* 🔍 Leitura crítica de código para identificar melhorias
-* 🧪 Validação de fluxos e comportamento da aplicação
-* 🧹 Refatoração constante para controle de complexidade
-* 🔗 Consumo de APIs e gerenciamento de estados assíncronos
-* 📌 Separação clara de responsabilidades (componentes, lógica e dados)
+Busco evoluir constantemente através da prática, refatoração e análise crítica de código.
 
 ---
 
-## 🛠️ Stack principal
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=js,ts,react,html,css,dart,git](https://skillicons.dev/icons?i=js,ts,react,vite,html,css,styledcomponents,git,github)" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,git,github,firebase" />
 </p>
 
 ---
 
-## 📌 Projetos em destaque
+# 🧩 Tecnologias e Ferramentas
 
-### 🔹 Devyssey
+### Front-End
+- React.js
+- TypeScript
+- JavaScript
+- Vite
+- React Router
 
-Aplicação SPA voltada para organização e acompanhamento de produtividade para desenvolvedores.
+### Estilização
+- CSS Modules
+- Styled Components
 
-🛠️ Stack:
-React • TypeScript • React Router • Context API • CSS Modules
+### Gerenciamento e Arquitetura
+- Context API
+- Componentização
+- Estrutura modular
+- Separação de responsabilidades
 
-🔍 Principais implementações:
+### Ferramentas
+- Git
+- GitHub
+- Figma
+- JSON Server
+
+---
+
+# 🏆 Diferenciais
+
+✔ Código limpo e legível  
+✔ Organização pensando em escalabilidade  
+✔ Componentização reutilizável  
+✔ Refatoração contínua  
+✔ Foco em manutenção de longo prazo  
+✔ Atenção à experiência do usuário  
+✔ Estruturação clara de projetos  
+✔ Facilidade em identificar melhorias técnicas  
+
+---
+
+# 📌 Projetos em Destaque
+
+## 🚀 Devyssey
+
+Aplicação SPA voltada para produtividade e organização de estudos para desenvolvedores.
+
+### ✨ Features
 - Sistema de autenticação
 - Rotas protegidas
 - Controle de progresso diário
 - Estrutura modular escalável
-- Gerenciamento de estado
+- Gerenciamento global de estado
 
-🔗 Deploy: [Acessar projeto](LINK)
-🔗 Repositório: [Ver código](LINK)
+### 🛠️ Stack
+React • TypeScript • Context API • React Router • CSS Modules
 
----
-
-### 🔹 PIG Bank
-
-Simulação de sistema bancário digital.
-
-**Destaques técnicos:**
-
-* Implementação de regras de negócio (saldo, transações)
-* Atualização dinâmica da interface
-* Organização de lógica financeira no front-end
-* Controle de estado e renderização eficiente
+### 🔗 Links
+- 🌐 Deploy: LINK
+- 💻 Repositório: LINK
 
 ---
 
-## 📈 Princípios que sigo no código
+## 🏦 PIG Bank
 
-* Código precisa ser **entendido rapidamente por outro dev**
-* Evitar complexidade desnecessária
-* Estrutura > quantidade de features
-* Clareza sempre acima de “código inteligente demais”
-* Refatorar faz parte do desenvolvimento, não é etapa final
-* Revisão de código faz parte do processo de desenvolvimento
----
+Simulação de sistema bancário digital focado em regras de negócio e controle financeiro.
 
-## 📚 Atualmente estudando
+### ✨ Features
+- Entradas e saídas financeiras
+- Atualização dinâmica de saldo
+- Controle de transações
+- Organização de lógica financeira
+- Persistência de dados
 
-- Gerenciamento avançado de estado
-- Performance e renderização no React
-- Arquitetura front-end
-- Integração com APIs REST
-- Boas práticas com TypeScript
----
+### 🛠️ Stack
+React • TypeScript • Context API • Styled Components
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luizfelipeosz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipeosz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 🔗 Links
+- 🌐 Deploy: LINK
+- 💻 Repositório: LINK
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luizfelipeosz&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+# 📚 Atualmente estudando
 
----
-
-## 🔗 Conecte-se comigo
-
-* 💼 LinkedIn: https://linkedin.com/in/luiz-felipe-o-souza-9a488b372/
-* 📧 Email: [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
-
----
-
-<p align="center">
-  <i>Construindo soluções, não apenas interfaces.</i>
-</p>
-
+```txt
+✔ Arquitetura Front-End
+✔ Performance no React
+✔ Escalabilidade de aplicações
+✔ Gerenciamento avançado de estado
+✔ Boas práticas com TypeScript
+✔ Consumo e estruturação de APIs REST
