@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Luiz Felipe Oliveira Souza</h1>
 
 <p align="center">
-  <b>Front-End Developer • React • TypeScript</b>
+   <b>Front-End Developer focused on building scalable and maintainable applications with React and TypeScript.</b>
 </p>
 
 <p align="center">
