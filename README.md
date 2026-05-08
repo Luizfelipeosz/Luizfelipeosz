@@ -107,8 +107,8 @@ Aplicação SPA voltada para produtividade e organização de estudos para desen
 React • TypeScript • Context API • React Router • CSS Modules
 
 ### 🔗 Links
-- 🌐 Deploy: LINK
-- 💻 Repositório: LINK
+- 🌐 Deploy: devyssey.com
+- 💻 Repositório: [LINK](https://github.com/Luizfelipeosz/Devyssey)
 
 ---
 
@@ -127,9 +127,8 @@ Simulação de sistema bancário digital focado em regras de negócio e controle
 React • TypeScript • Context API • Styled Components
 
 ### 🔗 Links
-- 🌐 Deploy: LINK
-- 💻 Repositório: LINK
-
+- 🌐 Deploy: Em breve...
+- 💻 Repositório: [[LINK](https://github.com/Luizfelipeosz/PIG---BANK)]
 ---
 
 # 📚 Atualmente estudando
