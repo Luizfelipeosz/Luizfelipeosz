@@ -141,3 +141,20 @@ React • TypeScript • Context API • Styled Components
 ✔ Gerenciamento avançado de estado
 ✔ Boas práticas com TypeScript
 ✔ Consumo e estruturação de APIs REST
+
+⚙️ Forma de desenvolvimento
+Organização de código pensando em crescimento
+Estrutura modular e reutilizável
+Leitura crítica para melhorias contínuas
+Refatoração como parte do processo
+Clareza acima de complexidade
+Componentes desacoplados e reutilizáveis
+
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luizfelipeosz&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipeosz&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+
+🏅 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Luizfelipeosz&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
+
+📫 Contato
+<p align="center"> <a href="mailto:luizfelipeolsouz@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/luiz-felipe-o-souza-9a488b372/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
