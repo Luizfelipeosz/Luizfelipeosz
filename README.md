@@ -161,4 +161,4 @@ Componentes desacoplados e reutilizáveis
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Luizfelipeosz&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
 
 📫 Contato
-<p align="center"> <a href="mailto:luizfelipeolsouz@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/luiz-felipe-o-souza-9a488b372/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<p align="center"> <a href="mailto:luizfelipeolsouz@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Luiz,%20vim%20pelo%20seu%20GitHub..."> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/luiz-felipe-o-souza-9a488b372/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
