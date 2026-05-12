@@ -104,11 +104,9 @@ Currently focused on improving front-end architecture, performance and software 
 Productivity platform designed to help developers organize studies, track progress and manage daily learning goals.
 
 ### ✨ Features
-- Sistema de autenticação
-- Rotas protegidas
-- Controle de progresso diário
-- Estrutura modular escalável
-- Gerenciamento global de estado
+Designed a modular architecture for scaling multiple feature domains
+Implemented protected routing with role-based structure
+Built reusable components for study tracking workflows
 
 ### 🛠️ Stack
 React • TypeScript • Context API • React Router • CSS Modules
