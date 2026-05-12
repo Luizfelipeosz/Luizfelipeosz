@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Luiz Felipe Oliveira Souza</h1>
 
 <p align="center">
-   <b>Front-End Developer focused on building scalable and maintainable applications with React and TypeScript.</b>
+   <b>Front-End Developer specializing in scalable front-end architecture with React & TypeScript</b>
 </p>
 
 <p align="center">
@@ -133,7 +133,7 @@ React • TypeScript • Context API • Styled Components
 
 ### 🔗 Links
 - 🌐 Deploy: Em breve...
-- 💻 Repositório: [[LINK](https://github.com/Luizfelipeosz/PIG---BANK)]
+- 💻 Repositório: [LINK](https://github.com/Luizfelipeosz/PIG---BANK)
 ---
 
 # 📚 Atualmente estudando
