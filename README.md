@@ -34,9 +34,7 @@
 
 # 🧠 Sobre mim
 
-Front-End Developer focused on React and TypeScript, with emphasis on scalable architecture, code organization and reusable components.
-
-I enjoy building applications that are easy to maintain, evolve and refactor over time.
+Front-End Developer focused on building scalable React applications with clean architecture, reusable components and maintainable codebases. I prioritize structure, performance and long-term maintainability over quick implementations.
 
 Currently focused on improving front-end architecture, performance and software engineering practices.
 ---
