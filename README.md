@@ -1,4 +1,3 @@
-```md
 <h1 align="center">🚀 Luiz Felipe Oliveira Souza</h1>
 
 <p align="center">
