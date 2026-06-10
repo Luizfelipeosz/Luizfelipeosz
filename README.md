@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Felipe Oliveira Souza</h1>
 
 <p align="center">
-  Front-End Developer • React • TypeScript
+  Front-End Developer • React • TypeScript • GIT
 </p>
 
 <p align="center">
