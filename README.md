@@ -1,11 +1,15 @@
 <h1 align="center">Luiz Felipe Oliveira Souza</h1>
 
 <p align="center">
-  Front-End Developer • React • TypeScript • GIT
+  Front-End Developer
 </p>
 
 <p align="center">
-  Building modern web applications with focus on maintainability, componentization and clean development practices.
+  Building maintainable interfaces and scalable front-end architectures with React and TypeScript.
+</p>
+
+<p align="center">
+  Focused on software quality, architecture decisions and user experience.
 </p>
 
 <p align="center">
@@ -26,20 +30,28 @@
 
 ## 👨‍💻 About
 
-Front-End Developer focused on building modern applications with React and TypeScript.
+I'm a Front-End Developer focused on building web applications that remain easy to understand, maintain and evolve over time.
 
-I enjoy developing interfaces that are organized, reusable and easy to maintain, applying practices commonly used in professional environments such as component composition, state management and separation of responsibilities.
+Beyond implementing interfaces, I'm interested in the architectural decisions behind software: component design, project structure, state management, scalability and long-term maintainability.
 
-My focus is to create solutions that deliver a good user experience while maintaining code quality, readability and long-term maintainability.
+I believe good software is not defined by complexity, but by how effectively it solves real problems while remaining predictable and sustainable for future development.
 
-### Areas of Interest
+My goal is to continuously improve not only my technical skills, but also my ability to make better engineering decisions.
 
-- Front-End Development
-- React Ecosystem
-- Component Architecture
-- State Management
-- Performance Optimization
-- Developer Experience (DX)
+---
+
+## 🧠 Engineering Mindset
+
+Some principles that guide how I approach software development:
+
+* Prefer simplicity over premature complexity
+* Optimize for maintainability before clever solutions
+* Build abstractions only when they solve real problems
+* Prioritize readability and predictability
+* Think about future evolution when making technical decisions
+* Focus on user experience without sacrificing code quality
+* Value consistency over unnecessary sophistication
+* Write software that teams can easily understand and maintain
 
 ---
 
@@ -49,9 +61,9 @@ My focus is to create solutions that deliver a good user experience while mainta
 
 React • TypeScript • JavaScript • Vite • React Router
 
-### Development Practices
+### Architecture & Development
 
-Component Composition • Context API • Feature-Based Structure • Separation of Concerns
+Component Composition • Context API • Feature-Based Structure • Separation of Concerns • Reusable Components
 
 ### Styling
 
@@ -63,62 +75,78 @@ Git • GitHub • Firebase • Figma
 
 ---
 
+## 📚 Currently Exploring
+
+* Front-End Architecture
+* Design Patterns for React Applications
+* State Management Strategies
+* Performance Optimization
+* Software Design Principles
+* AI-Assisted Development Workflows
+* Scalable Front-End Structures
+* Developer Experience (DX)
+
+---
+
 ## 📂 Featured Projects
 
-### Devyssey
+### 🚀 Devyssey
 
 Application developed to simulate the structure and organization commonly found in real-world front-end products.
 
 #### Highlights
 
-- Feature-based project organization
-- Protected route implementation
-- Reusable component patterns
-- Context-based state management
-- Clear separation of responsibilities
-- Focus on maintainability and scalability
+* Feature-based project organization
+* Protected route implementation
+* Reusable component patterns
+* Context-based state management
+* Separation of concerns
+* Scalable project structure
+* Focus on maintainability and long-term evolution
 
 #### Stack
 
 React • TypeScript • Context API • React Router • CSS Modules
 
-🔗 Repository  
+🔗 Repository
 https://github.com/Luizfelipeosz/Devyssey
 
-🔗 Deploy  
+🔗 Deploy
 https://devyssey.com
 
 ---
 
-### PIG Bank
+### 💳 PIG Bank
 
-Financial application focused on transaction management and predictable state organization.
+Financial application focused on transaction management, predictable state organization and reusable business logic.
 
 #### Highlights
 
-- Transaction workflow implementation
-- State management with Context API
-- Reusable business logic
-- Component isolation
-- Organized application structure
+* Transaction workflow implementation
+* State management with Context API
+* Component isolation
+* Reusable business logic
+* Organized application structure
+* Focus on maintainability
 
 #### Stack
 
 React • TypeScript • Context API • Styled Components
 
-🔗 Repository  
+🔗 Repository
 https://github.com/Luizfelipeosz/PIG---BANK
 
 ---
 
 ## 🏗️ Development Principles
 
-- Write code that is easy to understand and maintain
-- Prioritize readability before unnecessary complexity
-- Create reusable components when they provide real value
-- Separate concerns to improve maintainability
-- Build solutions that can evolve without increasing complexity
-- Focus on delivering simple, reliable and predictable software
+* Build software that remains maintainable as it grows
+* Prioritize readability over unnecessary abstractions
+* Keep components focused on a single responsibility
+* Reduce coupling whenever possible
+* Separate business logic from presentation logic
+* Design solutions that can evolve without major refactoring
+* Balance simplicity, scalability and user experience
 
 ---
 
@@ -130,17 +158,28 @@ https://github.com/Luizfelipeosz/PIG---BANK
     src="https://github-readme-stats.vercel.app/api?username=Luizfelipeosz&show_icons=true&theme=transparent&hide_border=true"
   />
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipeosz&layout=compact&theme=transparent&hide_border=true"
-  />
+<img
+ height="165"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipeosz&layout=compact&theme=transparent&hide_border=true"
+/>
+
 </p>
 
 ---
 
-## 🎯 Professional Goal
+## 🤝 Let's Connect
 
-Seeking opportunities as a Front-End Developer where I can contribute to building quality products, collaborate with experienced teams and continue evolving through real-world software development challenges.
+I'm always interested in discussing Front-End Architecture, React, software design, user experience and development best practices.
 
-I am particularly interested in environments that value code quality, maintainability, collaboration and continuous learning.
-```
+📧 **Email:** [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
+
+💼 **LinkedIn:** https://linkedin.com/in/luiz-felipe-o-souza-9a488b372
+
+🐙 **GitHub:** https://github.com/Luizfelipeosz
+
+---
+
+<p align="center">
+  Building software with a focus on maintainability, scalability and user experience.
+</p>
+
