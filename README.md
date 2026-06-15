@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Felipe Oliveira Souza</h1>
 
 <p align="center">
-  Front-End Developer
+  <b>  Front-End Developer </b>
 </p>
 
 <p align="center">
