@@ -1,121 +1,167 @@
+<div align="center">
+
 # Luiz Felipe Oliveira Souza
 
-**Front-End Developer | React • TypeScript**
+### Front-End Developer | React • TypeScript
+
+<br/>
+
+**Building scalable, maintainable and well-structured web applications**
+
+</div>
 
 ---
 
-## 🇧🇷 Sobre mim
+<div align="center">
 
-Sou desenvolvedor Front-End com foco em React e TypeScript, voltado à construção de interfaces web funcionais, bem estruturadas e fáceis de manter.
+## 🇧🇷 Sobre mim | 🇺🇸 About me
 
-Tenho interesse em como aplicações são organizadas por trás da UI, especialmente em temas como estado, regras de negócio e escalabilidade de código.
+</div>
 
-Busco evoluir continuamente como desenvolvedor, aplicando boas práticas e pensando na qualidade e na manutenção das aplicações desde o início do desenvolvimento.
+Sou desenvolvedor Front-End focado em React e TypeScript, com atenção em organização de código, regras de negócio e escalabilidade.
 
----
+I’m a Front-End Developer focused on React and TypeScript, with attention to code structure, business rules and scalability.
 
-## 🇺🇸 About me
+<br/>
 
-I'm a Front-End Developer focused on React and TypeScript, building functional, well-structured and maintainable web interfaces.
+Tenho interesse em como decisões de arquitetura influenciam a evolução das aplicações ao longo do tempo.
 
-I'm interested in how applications are designed beyond the UI layer, especially regarding state management, business rules and code scalability.
-
-I'm continuously improving as a developer, applying best practices and considering maintainability and code quality from the start of development.
+I’m interested in how architectural decisions impact the long-term evolution of applications.
 
 ---
 
-## 🧠 How I work / Como eu trabalho
+<div align="center">
 
-🇧🇷
+## 🧠 Como eu trabalho | How I work
 
-* Código limpo e legível
-* Componentes bem definidos e reutilizáveis
-* Separação de regras de negócio da UI
+</div>
+
+<div align="center">
+
+`Clean Code` • `Maintainability` • `Scalability` • `Component-Based Architecture` • `Business Rules`
+
+</div>
+
+<br/>
+
+* Código limpo e fácil de entender
+* Componentes reutilizáveis e bem definidos
+* Separação de regras de negócio e UI
 * Foco em manutenção e evolução do projeto
-* Pensamento em escalabilidade desde cedo
+* Pensamento em escalabilidade desde o início
 
-🇺🇸
+<br/>
 
 * Clean and readable code
-* Well-defined and reusable components
-* Separation of business logic from UI
-* Focus on maintainability and evolution
-* Early thinking about scalability
+* Reusable and well-structured components
+* Separation of business logic and UI
+* Focus on maintainability and long-term evolution
+* Scalability thinking from the beginning
 
 ---
+
+<div align="center">
 
 ## 🚀 Tech Stack
 
-**Front-End**
+</div>
 
-* React
-* TypeScript
-* JavaScript
-* Vite
-* React Router
+<div align="center">
+
+**Front-End**
+`React` • `TypeScript` • `JavaScript` • `Vite` • `React Router`
+
+<br/>
 
 **Styling**
+`CSS Modules` • `Styled Components`
 
-* CSS Modules
-* Styled Components
+<br/>
 
 **Tools**
+`Git` • `GitHub` • `Firebase` • `Figma`
 
-* Git
-* GitHub
-* Firebase
-* Figma
+</div>
 
 ---
 
-## 📂 Projects / Projetos
+<div align="center">
 
-### Devyssey
+## 📂 Projects | Projetos
 
-Aplicação focada em simular uma estrutura real de projeto Front-End.
+</div>
 
-Application focused on simulating real-world front-end project structure.
+### 🚀 Devyssey
 
-* Estrutura baseada em features / Feature-based structure
-* Context API para estado global / Global state management
-* Componentização reutilizável / Reusable components
-* Organização escalável / Scalable architecture
+Aplicação focada em simular estrutura real de projetos Front-End.
 
----
+Application focused on real-world front-end structure simulation.
 
-### PIG Bank
+<div align="center">
 
-Aplicação de controle financeiro com foco em regras de negócio e organização de estado.
+`React` • `TypeScript` • `Context API` • `Architecture` • `Scalability`
 
-Financial application focused on business rules and structured state management.
+</div>
 
-* Regras de negócio bem definidas / Clear business rules
-* Context API
-* Componentes isolados / Isolated components
-* Código previsível / Predictable code structure
+* Feature-based structure
+* Global state with Context API
+* Reusable components
+* Scalable architecture
 
 ---
 
-## 📚 Currently learning / Em aprendizado
+### 💳 PIG Bank
 
-* React Architecture Patterns
-* State Management Strategies
-* Front-End Scalability
-* Performance Optimization
-* Software Design Principles
-* AI-assisted development workflows
+Aplicação de controle financeiro com foco em regras de negócio e estado previsível.
+
+Financial app focused on business rules and predictable state management.
+
+<div align="center">
+
+`React` • `TypeScript` • `Context API` • `Business Rules`
+
+</div>
+
+* Business logic separation
+* Component isolation
+* Clean architecture approach
+* Predictable state flow
 
 ---
 
-## 🤝 Contact / Contato
+<div align="center">
 
-* LinkedIn: linkedin.com/in/luiz-felipe-o-souza-9a488b372
-* Email: [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
-* GitHub: github.com/Luizfelipeosz
+## 📚 Currently learning
+
+</div>
+
+<div align="center">
+
+`React Architecture` • `Design Patterns` • `State Management` • `Performance` • `Software Design`
+
+</div>
 
 ---
 
-<p align="center">
-Front-End Developer focused on building clean, scalable and maintainable React applications.
-</p>
+<div align="center">
+
+## 🤝 Contact
+
+</div>
+
+<div align="center">
+
+LinkedIn: linkedin.com/in/luiz-felipe-o-souza-9a488b372
+Email: [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
+GitHub: github.com/Luizfelipeosz
+
+</div>
+
+---
+
+<div align="center">
+
+**Front-End Developer focused on building scalable and maintainable React applications**
+
+</div>
 
