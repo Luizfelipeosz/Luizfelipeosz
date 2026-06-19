@@ -153,7 +153,6 @@ Financial app focused on business rules and predictable state management.
 
 LinkedIn: linkedin.com/in/luiz-felipe-o-souza-9a488b372
 Email: [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
-GitHub: github.com/Luizfelipeosz
 
 </div>
 
