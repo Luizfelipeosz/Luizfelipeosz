@@ -1,185 +1,121 @@
-<h1 align="center">Luiz Felipe Oliveira Souza</h1>
+# Luiz Felipe Oliveira Souza
 
-<p align="center">
-  <b>  Front-End Developer </b>
-</p>
-
-<p align="center">
-  Building maintainable interfaces and scalable front-end architectures with React and TypeScript.
-</p>
-
-<p align="center">
-  Focused on software quality, architecture decisions and user experience.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/luiz-felipe-o-souza-9a488b372">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:luizfelipeolsouz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Luizfelipeosz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-  </a>
-</p>
+**Front-End Developer | React • TypeScript**
 
 ---
 
-## 👨‍💻 About
+## 🇧🇷 Sobre mim
 
-I'm a Front-End Developer focused on building web applications that remain easy to understand, maintain and evolve over time.
+Sou desenvolvedor Front-End com foco em React e TypeScript, voltado à construção de interfaces web funcionais, bem estruturadas e fáceis de manter.
 
-Beyond implementing interfaces, I'm interested in the architectural decisions behind software: component design, project structure, state management, scalability and long-term maintainability.
+Tenho interesse em como aplicações são organizadas por trás da UI, especialmente em temas como estado, regras de negócio e escalabilidade de código.
 
-I believe good software is not defined by complexity, but by how effectively it solves real problems while remaining predictable and sustainable for future development.
-
-My goal is to continuously improve not only my technical skills, but also my ability to make better engineering decisions.
+Busco evoluir continuamente como desenvolvedor, aplicando boas práticas e pensando na qualidade e na manutenção das aplicações desde o início do desenvolvimento.
 
 ---
 
-## 🧠 Engineering Mindset
+## 🇺🇸 About me
 
-Some principles that guide how I approach software development:
+I'm a Front-End Developer focused on React and TypeScript, building functional, well-structured and maintainable web interfaces.
 
-* Prefer simplicity over premature complexity
-* Optimize for maintainability before clever solutions
-* Build abstractions only when they solve real problems
-* Prioritize readability and predictability
-* Think about future evolution when making technical decisions
-* Focus on user experience without sacrificing code quality
-* Value consistency over unnecessary sophistication
-* Write software that teams can easily understand and maintain
+I'm interested in how applications are designed beyond the UI layer, especially regarding state management, business rules and code scalability.
+
+I'm continuously improving as a developer, applying best practices and considering maintainability and code quality from the start of development.
+
+---
+
+## 🧠 How I work / Como eu trabalho
+
+🇧🇷
+
+* Código limpo e legível
+* Componentes bem definidos e reutilizáveis
+* Separação de regras de negócio da UI
+* Foco em manutenção e evolução do projeto
+* Pensamento em escalabilidade desde cedo
+
+🇺🇸
+
+* Clean and readable code
+* Well-defined and reusable components
+* Separation of business logic from UI
+* Focus on maintainability and evolution
+* Early thinking about scalability
 
 ---
 
 ## 🚀 Tech Stack
 
-### Front-End
+**Front-End**
 
-React • TypeScript • JavaScript • Vite • React Router
+* React
+* TypeScript
+* JavaScript
+* Vite
+* React Router
 
-### Architecture & Development
+**Styling**
 
-Component Composition • Context API • Feature-Based Structure • Separation of Concerns • Reusable Components
+* CSS Modules
+* Styled Components
 
-### Styling
+**Tools**
 
-CSS Modules • Styled Components
-
-### Tools
-
-Git • GitHub • Firebase • Figma
+* Git
+* GitHub
+* Firebase
+* Figma
 
 ---
 
-## 📚 Currently Exploring
+## 📂 Projects / Projetos
 
-* Front-End Architecture
-* Design Patterns for React Applications
+### Devyssey
+
+Aplicação focada em simular uma estrutura real de projeto Front-End.
+
+Application focused on simulating real-world front-end project structure.
+
+* Estrutura baseada em features / Feature-based structure
+* Context API para estado global / Global state management
+* Componentização reutilizável / Reusable components
+* Organização escalável / Scalable architecture
+
+---
+
+### PIG Bank
+
+Aplicação de controle financeiro com foco em regras de negócio e organização de estado.
+
+Financial application focused on business rules and structured state management.
+
+* Regras de negócio bem definidas / Clear business rules
+* Context API
+* Componentes isolados / Isolated components
+* Código previsível / Predictable code structure
+
+---
+
+## 📚 Currently learning / Em aprendizado
+
+* React Architecture Patterns
 * State Management Strategies
+* Front-End Scalability
 * Performance Optimization
 * Software Design Principles
-* AI-Assisted Development Workflows
-* Scalable Front-End Structures
-* Developer Experience (DX)
+* AI-assisted development workflows
 
 ---
 
-## 📂 Featured Projects
+## 🤝 Contact / Contato
 
-### 🚀 Devyssey
-
-Application developed to simulate the structure and organization commonly found in real-world front-end products.
-
-#### Highlights
-
-* Feature-based project organization
-* Protected route implementation
-* Reusable component patterns
-* Context-based state management
-* Separation of concerns
-* Scalable project structure
-* Focus on maintainability and long-term evolution
-
-#### Stack
-
-React • TypeScript • Context API • React Router • CSS Modules
-
-🔗 Repository
-https://github.com/Luizfelipeosz/Devyssey
-
-🔗 Deploy
-https://devyssey.com
-
----
-
-### 💳 PIG Bank
-
-Financial application focused on transaction management, predictable state organization and reusable business logic.
-
-#### Highlights
-
-* Transaction workflow implementation
-* State management with Context API
-* Component isolation
-* Reusable business logic
-* Organized application structure
-* Focus on maintainability
-
-#### Stack
-
-React • TypeScript • Context API • Styled Components
-
-🔗 Repository
-https://github.com/Luizfelipeosz/PIG---BANK
-
----
-
-## 🏗️ Development Principles
-
-* Build software that remains maintainable as it grows
-* Prioritize readability over unnecessary abstractions
-* Keep components focused on a single responsibility
-* Reduce coupling whenever possible
-* Separate business logic from presentation logic
-* Design solutions that can evolve without major refactoring
-* Balance simplicity, scalability and user experience
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Luizfelipeosz&show_icons=true&theme=transparent&hide_border=true"
-  />
-
-<img
- height="165"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipeosz&layout=compact&theme=transparent&hide_border=true"
-/>
-
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing Front-End Architecture, React, software design, user experience and development best practices.
-
-📧 **Email:** [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
-
-💼 **LinkedIn:** https://linkedin.com/in/luiz-felipe-o-souza-9a488b372
-
-🐙 **GitHub:** https://github.com/Luizfelipeosz
+* LinkedIn: linkedin.com/in/luiz-felipe-o-souza-9a488b372
+* Email: [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
+* GitHub: github.com/Luizfelipeosz
 
 ---
 
 <p align="center">
-  Building software with a focus on maintainability, scalability and user experience.
+Front-End Developer focused on building clean, scalable and maintainable React applications.
 </p>
 
