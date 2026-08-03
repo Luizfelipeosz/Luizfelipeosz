@@ -2,11 +2,13 @@
 
 # Luiz Felipe Oliveira Souza
 
-### Front-End Developer | React • TypeScript
+### Front-End Developer Jr. | React • TypeScript • Next.js
+
+**Building modern, maintainable and scalable web experiences**
 
 <br/>
 
-**Building scalable, maintainable and well-structured web applications**
+[LinkedIn](https://linkedin.com/in/luiz-felipe-o-souza-9a488b372) • [GitHub](https://github.com/Luizfelipeosz) • [Email](mailto:luizfelipeolsouz@gmail.com)
 
 </div>
 
@@ -14,49 +16,46 @@
 
 <div align="center">
 
-## 🇧🇷 Sobre mim | 🇺🇸 About me
+## 👋 Sobre mim | About me
 
 </div>
 
-Sou desenvolvedor Front-End focado em React e TypeScript, com atenção em organização de código, regras de negócio e escalabilidade.
+Sou **Front-End Developer Jr.** focado no desenvolvimento de aplicações web modernas utilizando **React, TypeScript e Next.js**.
 
-I’m a Front-End Developer focused on React and TypeScript, with attention to code structure, business rules and scalability.
+Meu foco está em transformar requisitos e ideias de produto em interfaces **responsivas, organizadas e fáceis de evoluir**, mantendo atenção à experiência do usuário, qualidade do código e consistência da aplicação.
+
+Tenho interesse especialmente em **arquitetura Front-End, componentização, gerenciamento de estado, integração com APIs e evolução contínua de produtos**.
 
 <br/>
 
-Tenho interesse em como decisões de arquitetura influenciam a evolução das aplicações ao longo do tempo.
+I’m a **Junior Front-End Developer** focused on building modern web applications with **React, TypeScript and Next.js**.
 
-I’m interested in how architectural decisions impact the long-term evolution of applications.
+I enjoy turning product requirements and ideas into **responsive, maintainable and scalable interfaces**, while keeping code quality, user experience and long-term evolution in mind.
 
 ---
 
 <div align="center">
 
-## 🧠 Como eu trabalho | How I work
+## 🧠 Engineering mindset
 
 </div>
 
 <div align="center">
 
-`Clean Code` • `Maintainability` • `Scalability` • `Component-Based Architecture` • `Business Rules`
+`Clean Code` • `Reusable Components` • `Maintainability` • `Scalability` • `Business Logic` • `User Experience`
 
 </div>
 
 <br/>
 
-* Código limpo e fácil de entender
-* Componentes reutilizáveis e bem definidos
-* Separação de regras de negócio e UI
-* Foco em manutenção e evolução do projeto
-* Pensamento em escalabilidade desde o início
-
-<br/>
-
-* Clean and readable code
-* Reusable and well-structured components
-* Separation of business logic and UI
-* Focus on maintainability and long-term evolution
-* Scalability thinking from the beginning
+* Desenvolvimento orientado a componentes reutilizáveis
+* Separação entre interface, estado e regras de negócio
+* Estrutura de código pensada para manutenção e evolução
+* Gerenciamento de estado previsível
+* Interfaces responsivas e consistentes
+* Atenção a UX e aos detalhes de interação
+* Uso de TypeScript para maior segurança e clareza no código
+* Git e GitHub como parte do fluxo de desenvolvimento
 
 ---
 
@@ -68,18 +67,27 @@ I’m interested in how architectural decisions impact the long-term evolution o
 
 <div align="center">
 
-**Front-End**
-`React` • `TypeScript` • `JavaScript` • `Vite` • `React Router`
+### Front-End
+
+`React` • `TypeScript` • `JavaScript` • `Next.js` • `HTML5` • `CSS3`
 
 <br/>
 
-**Styling**
-`CSS Modules` • `Styled Components`
+### Styling & UI
+
+`Tailwind CSS` • `CSS Modules` • `Styled Components` • `Responsive Design`
 
 <br/>
 
-**Tools**
-`Git` • `GitHub` • `Firebase` • `Figma`
+### State & Application
+
+`Context API` • `React Hooks` • `React Router` • `REST APIs`
+
+<br/>
+
+### Tools & Workflow
+
+`Vite` • `Git` • `GitHub` • `ESLint` • `Figma` • `Vercel`
 
 </div>
 
@@ -87,57 +95,81 @@ I’m interested in how architectural decisions impact the long-term evolution o
 
 <div align="center">
 
-## 📂 Projects | Projetos
+## 📂 Featured Projects
 
 </div>
 
-### 🚀 Devyssey
+### 🖤 Noir Avenue
 
-Aplicação focada em simular estrutura real de projetos Front-End.
+**Premium e-commerce experience built with React and TypeScript.**
 
-Application focused on real-world front-end structure simulation.
+Projeto desenvolvido com foco em uma experiência de e-commerce moderna, trabalhando desde autenticação e gerenciamento de sessão até estrutura de componentes, identidade visual e organização da aplicação.
+
+O projeto também é utilizado como laboratório para aplicar decisões de **arquitetura Front-End, design system, componentização e evolução incremental de produto**.
+
+**Highlights:**
+
+* Authentication and registration flows
+* Session management and persistent user data
+* Reusable component architecture
+* Design system and design tokens
+* Responsive interface
+* Form validation and user feedback
+* Product-oriented UI/UX
+* Structured and maintainable codebase
 
 <div align="center">
 
-`React` • `TypeScript` • `Context API` • `Architecture` • `Scalability`
+`React` • `TypeScript` • `React Router` • `Context API` • `Vite` • `CSS` • `Sonner`
 
 </div>
 
-* Feature-based structure
-* Global state with Context API
+---
+
+### 🚀 Devyssey
+
+**Developer activity tracking application focused on productivity and data organization.**
+
+Aplicação criada para acompanhar atividades de desenvolvimento, organizar informações e apresentar dados de forma clara através de uma interface responsiva.
+
+O projeto envolve gerenciamento de estado global, persistência de dados e organização da aplicação por funcionalidades.
+
+**Highlights:**
+
+* Feature-based project structure
+* Global state management
+* Persistent application data
 * Reusable components
-* Scalable architecture
+* Responsive UI
+* Calendar and activity management
+* Dashboard-oriented interface
+
+<div align="center">
+
+`React` • `TypeScript` • `Context API` • `Tailwind CSS` • `Vite`
+
+</div>
 
 ---
 
 ### 💳 PIG Bank
 
-Aplicação de controle financeiro com foco em regras de negócio e estado previsível.
+**Financial management application focused on predictable state and business rules.**
 
-Financial app focused on business rules and predictable state management.
+Aplicação de controle financeiro desenvolvida para trabalhar conceitos de fluxo de dados, regras de negócio e gerenciamento de estado em uma interface próxima de um produto real.
 
-<div align="center">
+**Highlights:**
 
-`React` • `TypeScript` • `Context API` • `Business Rules`
-
-</div>
-
-* Business logic separation
-* Component isolation
-* Clean architecture approach
+* Financial transaction management
+* Business rule implementation
 * Predictable state flow
-
----
-
-<div align="center">
-
-## 📚 Currently learning
-
-</div>
+* Component isolation
+* Reusable UI elements
+* Responsive interface
 
 <div align="center">
 
-`React Architecture` • `Design Patterns` • `State Management` • `Performance` • `Software Design`
+`React` • `TypeScript` • `Context API` • `React Hooks` • `CSS`
 
 </div>
 
@@ -145,14 +177,32 @@ Financial app focused on business rules and predictable state management.
 
 <div align="center">
 
-## 🤝 Contact
+## 📈 Currently improving
 
 </div>
 
 <div align="center">
 
-LinkedIn: linkedin.com/in/luiz-felipe-o-souza-9a488b372
-Email: [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
+`Front-End Architecture` • `Design Patterns` • `Performance` • `Testing` • `API Integration` • `Next.js`
+
+</div>
+
+<br/>
+
+Continuo aprimorando minhas práticas de desenvolvimento através da construção e evolução de projetos, buscando escrever código mais consistente e tomar decisões técnicas cada vez mais alinhadas às necessidades de produtos reais.
+
+---
+
+<div align="center">
+
+## 🤝 Let's connect
+
+</div>
+
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/luiz-felipe-o-souza-9a488b372)
+[Email](mailto:luizfelipeolsouz@gmail.com)
 
 </div>
 
@@ -160,7 +210,8 @@ Email: [luizfelipeolsouz@gmail.com](mailto:luizfelipeolsouz@gmail.com)
 
 <div align="center">
 
-**Front-End Developer focused on building scalable and maintainable React applications**
+### Front-End Developer Jr. building modern and maintainable web applications with React, TypeScript and Next.js.
 
 </div>
+
 
