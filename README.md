@@ -8,7 +8,7 @@
 
 <br/>
 
-[LinkedIn](https://linkedin.com/in/luiz-felipe-o-souza-9a488b372) • [GitHub](https://github.com/Luizfelipeosz) • [Email](mailto:luizfelipeolsouz@gmail.com)
+[LinkedIn](https://linkedin.com/in/luiz-felipe-o-souza-9a488b372) • [Email](mailto:luizfelipeolsouz@gmail.com)
 
 </div>
 
