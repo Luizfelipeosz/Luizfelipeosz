@@ -4,11 +4,16 @@
 
 ### Front-End Developer Jr. | React • TypeScript • Next.js
 
-**Building modern, maintainable and scalable web experiences**
+**Building modern, maintainable and scalable web applications**
 
 <br/>
 
-[LinkedIn](https://linkedin.com/in/luiz-felipe-o-souza-9a488b372) • [Email](mailto:luizfelipeolsouz@gmail.com)
+<a href="https://linkedin.com/in/luiz-felipe-o-souza-9a488b372">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:luizfelipeolsouz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -16,46 +21,43 @@
 
 <div align="center">
 
-## 👋 Sobre mim | About me
+## 👋 About Me
 
 </div>
-
-Sou **Front-End Developer Jr.** focado no desenvolvimento de aplicações web modernas utilizando **React, TypeScript e Next.js**.
-
-Meu foco está em transformar requisitos e ideias de produto em interfaces **responsivas, organizadas e fáceis de evoluir**, mantendo atenção à experiência do usuário, qualidade do código e consistência da aplicação.
-
-Tenho interesse especialmente em **arquitetura Front-End, componentização, gerenciamento de estado, integração com APIs e evolução contínua de produtos**.
-
-<br/>
 
 I’m a **Junior Front-End Developer** focused on building modern web applications with **React, TypeScript and Next.js**.
 
-I enjoy turning product requirements and ideas into **responsive, maintainable and scalable interfaces**, while keeping code quality, user experience and long-term evolution in mind.
+My approach goes beyond implementing interfaces. I focus on transforming requirements into **responsive, maintainable and scalable solutions**, considering component architecture, state management, user experience and long-term maintainability.
+
+I work with a product-oriented mindset, paying attention to **code quality, reusable components, business rules and incremental evolution** throughout development.
+
+I’m particularly interested in **Front-End architecture, componentization, state management, API integration, testing and modern React applications**.
 
 ---
 
 <div align="center">
 
-## 🧠 Engineering mindset
+## 🧠 Engineering Approach
 
 </div>
+
+My development process is guided by principles that help keep applications easier to understand, maintain and evolve:
+
+* **Reusable and composable components**
+* **Clear separation of UI, state and business logic**
+* **Predictable state management**
+* **Type-safe development with TypeScript**
+* **Responsive and consistent interfaces**
+* **Maintainable project structure**
+* **User-focused interaction and UX**
+* **Incremental development and continuous refinement**
+* **Git and GitHub as part of the development workflow**
 
 <div align="center">
 
-`Clean Code` • `Reusable Components` • `Maintainability` • `Scalability` • `Business Logic` • `User Experience`
+`Clean Code` • `Componentization` • `Maintainability` • `Scalability` • `Business Logic` • `UX`
 
 </div>
-
-<br/>
-
-* Desenvolvimento orientado a componentes reutilizáveis
-* Separação entre interface, estado e regras de negócio
-* Estrutura de código pensada para manutenção e evolução
-* Gerenciamento de estado previsível
-* Interfaces responsivas e consistentes
-* Atenção a UX e aos detalhes de interação
-* Uso de TypeScript para maior segurança e clareza no código
-* Git e GitHub como parte do fluxo de desenvolvimento
 
 ---
 
@@ -65,31 +67,21 @@ I enjoy turning product requirements and ideas into **responsive, maintainable a
 
 </div>
 
-<div align="center">
-
 ### Front-End
 
 `React` • `TypeScript` • `JavaScript` • `Next.js` • `HTML5` • `CSS3`
-
-<br/>
 
 ### Styling & UI
 
 `Tailwind CSS` • `CSS Modules` • `Styled Components` • `Responsive Design`
 
-<br/>
-
 ### State & Application
 
 `Context API` • `React Hooks` • `React Router` • `REST APIs`
 
-<br/>
-
 ### Tools & Workflow
 
 `Vite` • `Git` • `GitHub` • `ESLint` • `Figma` • `Vercel`
-
-</div>
 
 ---
 
@@ -103,11 +95,11 @@ I enjoy turning product requirements and ideas into **responsive, maintainable a
 
 **Premium e-commerce experience built with React and TypeScript.**
 
-Projeto desenvolvido com foco em uma experiência de e-commerce moderna, trabalhando desde autenticação e gerenciamento de sessão até estrutura de componentes, identidade visual e organização da aplicação.
+Noir Avenue is a product-oriented e-commerce application built to explore **Front-End architecture, componentization, authentication flows, state management and UI/UX** in a realistic application scenario.
 
-O projeto também é utilizado como laboratório para aplicar decisões de **arquitetura Front-End, design system, componentização e evolução incremental de produto**.
+The project is continuously evolved through incremental improvements, with emphasis on maintainability and technical organization.
 
-**Highlights:**
+**Highlights**
 
 * Authentication and registration flows
 * Session management and persistent user data
@@ -117,6 +109,7 @@ O projeto também é utilizado como laboratório para aplicar decisões de **arq
 * Form validation and user feedback
 * Product-oriented UI/UX
 * Structured and maintainable codebase
+* Incremental product evolution
 
 <div align="center">
 
@@ -130,11 +123,11 @@ O projeto também é utilizado como laboratório para aplicar decisões de **arq
 
 **Developer activity tracking application focused on productivity and data organization.**
 
-Aplicação criada para acompanhar atividades de desenvolvimento, organizar informações e apresentar dados de forma clara através de uma interface responsiva.
+Devyssey is a web application designed to organize development activities and present information through a clear, responsive interface.
 
-O projeto envolve gerenciamento de estado global, persistência de dados e organização da aplicação por funcionalidades.
+The project explores **global state management, data persistence, feature organization and reusable UI components**.
 
-**Highlights:**
+**Highlights**
 
 * Feature-based project structure
 * Global state management
@@ -154,11 +147,11 @@ O projeto envolve gerenciamento de estado global, persistência de dados e organ
 
 ### 💳 PIG Bank
 
-**Financial management application focused on predictable state and business rules.**
+**Financial management application focused on business rules and predictable state.**
 
-Aplicação de controle financeiro desenvolvida para trabalhar conceitos de fluxo de dados, regras de negócio e gerenciamento de estado em uma interface próxima de um produto real.
+PIG Bank is a financial management application created to simulate a product-oriented environment while working with **data flow, business rules, state management and reusable interfaces**.
 
-**Highlights:**
+**Highlights**
 
 * Financial transaction management
 * Business rule implementation
@@ -177,38 +170,48 @@ Aplicação de controle financeiro desenvolvida para trabalhar conceitos de flux
 
 <div align="center">
 
-## 📈 Currently improving
+## 🛠️ What I Bring
 
 </div>
+
+* Ability to turn product requirements into structured interfaces
+* Strong focus on **React and TypeScript**
+* Attention to component design and code organization
+* Understanding of state management and application flow
+* Focus on responsive and consistent UI
+* Product and UX awareness during implementation
+* Commitment to maintainable and evolvable code
+* Continuous improvement through practical development
+
+---
 
 <div align="center">
 
-`Front-End Architecture` • `Design Patterns` • `Performance` • `Testing` • `API Integration` • `Next.js`
+## 📈 Currently Working On
 
 </div>
+
+`Front-End Architecture` • `Testing` • `Performance` • `API Integration` • `Next.js` • `Design Patterns`
+
+I continuously improve my development practices by building and evolving applications, refining existing implementations and exploring better approaches to **architecture, testing, performance and product development**.
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/luiz-felipe-o-souza-9a488b372">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:luizfelipeolsouz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/>
+<br/>
 
-Continuo aprimorando minhas práticas de desenvolvimento através da construção e evolução de projetos, buscando escrever código mais consistente e tomar decisões técnicas cada vez mais alinhadas às necessidades de produtos reais.
-
----
-
-<div align="center">
-
-🤝 Let's connect
-
-<a href="https://linkedin.com/in/luiz-felipe-o-souza-9a488b372"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-
-<a href="mailto:luizfelipeolsouz@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
+**Front-End Developer Jr. building modern and maintainable web applications with React, TypeScript and Next.js.**
 
 </div>
-
----
-
-<div align="center">
-
-### Front-End Developer Jr. building modern and maintainable web applications with React, TypeScript and Next.js.
-
-</div>
-
-
