@@ -4,7 +4,7 @@
 
 ### Front-End Developer Jr. | React • TypeScript • Next.js
 
-**Building modern, maintainable and scalable web applications**
+**Building and evolving web applications with a product-oriented approach**
 
 <br/>
 
@@ -25,13 +25,15 @@
 
 </div>
 
-I’m a **Junior Front-End Developer** focused on building modern web applications with **React, TypeScript and Next.js**.
+I’m a **Junior Front-End Developer** focused on building and evolving web applications with **React, TypeScript and Next.js**.
 
-My approach goes beyond implementing interfaces. I focus on transforming requirements into **responsive, maintainable and scalable solutions**, considering component architecture, state management, user experience and long-term maintainability.
+My focus is on turning product requirements into **well-structured, responsive and maintainable interfaces**, considering component architecture, application state, business rules, API integration and user experience.
 
-I work with a product-oriented mindset, paying attention to **code quality, reusable components, business rules and incremental evolution** throughout development.
+Rather than treating development as isolated feature implementation, I work through an incremental process:
 
-I’m particularly interested in **Front-End architecture, componentization, state management, API integration, testing and modern React applications**.
+**understand the requirement → investigate the problem → define the approach → implement → test → validate → refine**
+
+I’m particularly interested in **Front-End architecture, reusable components, state management, API integration, testing and the continuous evolution of real-world applications**.
 
 ---
 
@@ -41,21 +43,22 @@ I’m particularly interested in **Front-End architecture, componentization, sta
 
 </div>
 
-My development process is guided by principles that help keep applications easier to understand, maintain and evolve:
+I aim to build applications that remain understandable and easier to evolve as new requirements are introduced.
 
-* **Reusable and composable components**
-* **Clear separation of UI, state and business logic**
-* **Predictable state management**
-* **Type-safe development with TypeScript**
-* **Responsive and consistent interfaces**
-* **Maintainable project structure**
-* **User-focused interaction and UX**
-* **Incremental development and continuous refinement**
-* **Git and GitHub as part of the development workflow**
+- **Componentization** with reusable and focused components
+- **Separation of concerns** between UI, state and business logic
+- **Type-safe development** with TypeScript
+- **Predictable state management** using React patterns
+- **Responsive and consistent interfaces**
+- **Clear project organization**
+- **API integration** with explicit loading, error and success states
+- **User-focused UX** and meaningful feedback
+- **Incremental development** instead of unnecessary complexity
+- **Git and GitHub** as part of the development workflow
 
 <div align="center">
 
-`Clean Code` • `Componentization` • `Maintainability` • `Scalability` • `Business Logic` • `UX`
+`Componentization` • `Maintainability` • `State Management` • `API Integration` • `UX` • `Git Workflow`
 
 </div>
 
@@ -77,92 +80,136 @@ My development process is guided by principles that help keep applications easie
 
 ### State & Application
 
-`Context API` • `React Hooks` • `React Router` • `REST APIs`
+`React Hooks` • `Context API` • `React Router` • `REST APIs`
+
+### Testing & Quality
+
+`Jest` • `React Testing Library` • `ESLint`
 
 ### Tools & Workflow
 
-`Vite` • `Git` • `GitHub` • `ESLint` • `Figma` • `Vercel`
+`Vite` • `Git` • `GitHub` • `GitHub Actions` • `Figma` • `Vercel`
 
 ---
 
 <div align="center">
 
-## 📂 Featured Projects
+## 🖤 Featured Project
+
+# Noir Avenue
+
+### Product-oriented e-commerce application built with React and TypeScript
 
 </div>
 
-### 🖤 Noir Avenue
+**Noir Avenue** is the main project in my portfolio and an ongoing application focused on exploring how a Front-End application evolves as product requirements become more complex.
 
-**Premium e-commerce experience built with React and TypeScript.**
+The project started as a Front-End application and progressively evolved to include **authentication, protected routes, API integration, server-side persistence, password recovery, product flows, cart, favorites and checkout**.
 
-Noir Avenue is a product-oriented e-commerce application built to explore **Front-End architecture, componentization, authentication flows, state management and UI/UX** in a realistic application scenario.
+The goal is not only to build interfaces, but to work through the engineering decisions involved in **maintaining and evolving an application over time**.
 
-The project is continuously evolved through incremental improvements, with emphasis on maintainability and technical organization.
+### ✨ Current Features
 
-**Highlights**
+- Authentication and registration
+- Protected application routes
+- Session management
+- Password recovery flow
+- Product catalog
+- Favorites
+- Shopping cart
+- Multi-step checkout
+- User profile and settings
+- Form validation
+- Responsive interface
+- Loading, error and feedback states
+- API integration
+- Server-side persistence
+- Production deployment
 
-* Authentication and registration flows
-* Session management and persistent user data
-* Reusable component architecture
-* Design system and design tokens
-* Responsive interface
-* Form validation and user feedback
-* Product-oriented UI/UX
-* Structured and maintainable codebase
-* Incremental product evolution
+### 🏗️ Architecture
+
+The project is organized around clear responsibilities between the application layers:
+
+```text
+React Application
+│
+├── Components
+├── Pages
+├── Hooks
+├── Context
+├── Routes
+├── Services
+├── Utils
+└── Styles
+        │
+        ▼
+     REST API
+        │
+        ▼
+   Express Backend
+        │
+        ▼
+      Prisma
+        │
+        ▼
+      SQLite
+```
+
+The architecture continues to evolve as new product requirements are introduced.
+
+### 🔧 Engineering Focus
+
+Current development focuses on:
+
+- Improving Front-End/API contracts
+- Increasing server-side persistence
+- Evolving the product catalog
+- Improving authentication feedback
+- Strengthening loading, error and empty states
+- Expanding automated tests
+- Improving responsive behavior
+- Reviewing application security
+- Preparing the architecture for further product evolution
+
+### 🔄 Development Workflow
+
+Development is approached incrementally:
+
+```text
+Requirement
+    ↓
+Investigation
+    ↓
+Technical approach
+    ↓
+Implementation
+    ↓
+Testing
+    ↓
+Production validation
+    ↓
+Refinement
+```
+
+This workflow allows the project to evolve through real problems and technical decisions rather than isolated feature additions.
 
 <div align="center">
 
-`React` • `TypeScript` • `React Router` • `Context API` • `Vite` • `CSS` • `Sonner`
+### 🔗 Project
+
+<a href="https://luizfelipeosz.github.io/Noir-Avenue/">
+  <img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/Luizfelipeosz/Noir-Avenue">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
 
 </div>
 
----
-
-### 🚀 Devyssey
-
-**Developer activity tracking application focused on productivity and data organization.**
-
-Devyssey is a web application designed to organize development activities and present information through a clear, responsive interface.
-
-The project explores **global state management, data persistence, feature organization and reusable UI components**.
-
-**Highlights**
-
-* Feature-based project structure
-* Global state management
-* Persistent application data
-* Reusable components
-* Responsive UI
-* Calendar and activity management
-* Dashboard-oriented interface
-
 <div align="center">
 
-`React` • `TypeScript` • `Context API` • `Tailwind CSS` • `Vite`
-
-</div>
-
----
-
-### 💳 PIG Bank
-
-**Financial management application focused on business rules and predictable state.**
-
-PIG Bank is a financial management application created to simulate a product-oriented environment while working with **data flow, business rules, state management and reusable interfaces**.
-
-**Highlights**
-
-* Financial transaction management
-* Business rule implementation
-* Predictable state flow
-* Component isolation
-* Reusable UI elements
-* Responsive interface
-
-<div align="center">
-
-`React` • `TypeScript` • `Context API` • `React Hooks` • `CSS`
+`React` • `TypeScript` • `Vite` • `React Router` • `Context API` • `REST API` • `Express` • `Prisma` • `SQLite`
 
 </div>
 
@@ -174,26 +221,30 @@ PIG Bank is a financial management application created to simulate a product-ori
 
 </div>
 
-* Ability to turn product requirements into structured interfaces
-* Strong focus on **React and TypeScript**
-* Attention to component design and code organization
-* Understanding of state management and application flow
-* Focus on responsive and consistent UI
-* Product and UX awareness during implementation
-* Commitment to maintainable and evolvable code
-* Continuous improvement through practical development
+- Ability to translate requirements into structured Front-End solutions
+- Practical experience building and evolving React applications
+- Strong focus on **React and TypeScript**
+- Understanding of component architecture and application state
+- Experience integrating Front-End applications with REST APIs
+- Attention to responsive behavior and user experience
+- Experience investigating and fixing implementation issues
+- Familiarity with authentication, persistence and application flows
+- Focus on maintainability and incremental product evolution
+- Willingness to learn, test and refine technical decisions
 
 ---
 
 <div align="center">
 
-## 📈 Currently Working On
+## 📈 Currently Developing
 
 </div>
 
-`Front-End Architecture` • `Testing` • `Performance` • `API Integration` • `Next.js` • `Design Patterns`
+`Front-End Architecture` • `Testing` • `API Integration` • `Performance` • `Next.js` • `TypeScript`
 
-I continuously improve my development practices by building and evolving applications, refining existing implementations and exploring better approaches to **architecture, testing, performance and product development**.
+I’m continuously improving my development practices by building and evolving applications, investigating implementation problems and refining existing solutions.
+
+My current focus is becoming a stronger **Front-End developer capable of contributing to real products, understanding requirements, collaborating with APIs and backend services, and delivering maintainable solutions**.
 
 ---
 
@@ -212,6 +263,6 @@ I continuously improve my development practices by building and evolving applica
 <br/>
 <br/>
 
-**Front-End Developer Jr. building modern and maintainable web applications with React, TypeScript and Next.js.**
+**Front-End Developer Jr. focused on building and evolving web applications with React, TypeScript and Next.js.**
 
 </div>
